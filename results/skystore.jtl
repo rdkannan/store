@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1607" it="0" lt="1607" ts="1475961095191" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="296" it="0" lt="296" ts="1475961097140" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="150" it="0" lt="149" ts="1475961099142" s="true" lb="10 /api/web/v2/content/navigation" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9995" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ts="1475961101139" s="true" lb="11 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="80" it="0" lt="50" ts="1475961103139" s="true" lb="15 /api/web/v2/content/labels" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="23694" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="122" it="0" lt="122" ts="1475961105140" s="true" lb="30 /api/web/v2/user/session" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="680" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="127" it="0" lt="69" ts="1475961107141" s="true" lb="37 /api/web/v2/catalog/assets/category/d43693ad-f621-449a-b473-505e030e5c69" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15818" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="475" it="0" lt="475" ts="1475961109141" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="139" it="0" lt="139" ts="1475961111140" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="137" it="0" lt="136" ts="1475961113142" s="true" lb="10 /api/web/v2/content/navigation" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9995" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ts="1475961115142" s="true" lb="11 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="217" it="0" lt="175" ts="1475961117142" s="true" lb="15 /api/web/v2/content/labels" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="23694" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="137" it="0" lt="136" ts="1475961119142" s="true" lb="30 /api/web/v2/user/session" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="681" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="186" it="0" lt="159" ts="1475961121142" s="true" lb="37 /api/web/v2/catalog/assets/category/d43693ad-f621-449a-b473-505e030e5c69" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15818" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="463" it="0" lt="463" ts="1475961123142" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="166" it="0" lt="166" ts="1475961125143" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="199" it="0" lt="198" ts="1475961127144" s="true" lb="10 /api/web/v2/content/navigation" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9995" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="142" it="0" lt="142" ts="1475961129144" s="true" lb="11 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="106" it="0" lt="54" ts="1475961131141" s="true" lb="15 /api/web/v2/content/labels" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="23693" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ts="1475961133142" s="true" lb="30 /api/web/v2/user/session" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="681" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="163" it="0" lt="130" ts="1475961135142" s="true" lb="37 /api/web/v2/catalog/assets/category/d43693ad-f621-449a-b473-505e030e5c69" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15818" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="152" it="0" lt="152" ts="1475961137140" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="335" it="0" lt="335" ts="1475961139140" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="45" it="0" lt="43" ts="1475961141139" s="true" lb="10 /api/web/v2/content/navigation" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9995" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ts="1475961143139" s="true" lb="11 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="136" it="0" lt="110" ts="1475961145140" s="true" lb="15 /api/web/v2/content/labels" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="23693" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="51" it="0" lt="51" ts="1475961147139" s="true" lb="30 /api/web/v2/user/session" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="681" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="178" it="0" lt="142" ts="1475961149140" s="true" lb="37 /api/web/v2/catalog/assets/category/d43693ad-f621-449a-b473-505e030e5c69" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15818" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="298" it="0" lt="298" ts="1475961151140" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="496" it="0" lt="496" ts="1475961153140" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="114" it="0" lt="113" ts="1475961155144" s="true" lb="10 /api/web/v2/content/navigation" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9995" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="122" it="0" lt="122" ts="1475961157143" s="true" lb="11 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="87" it="0" lt="56" ts="1475961159140" s="true" lb="15 /api/web/v2/content/labels" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="23693" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="570" it="0" lt="570" ts="1475961161139" s="true" lb="30 /api/web/v2/user/session" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="681" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="156" it="0" lt="130" ts="1475961163139" s="true" lb="37 /api/web/v2/catalog/assets/category/d43693ad-f621-449a-b473-505e030e5c69" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="15817" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="303" it="0" lt="303" ts="1475961165139" s="true" lb="1 /" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1797" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+<httpSample t="325" it="0" lt="325" ts="1475961167139" s="true" lb="8 /config.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="562" ng="1" na="1">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+</httpSample>
+</testResults>
